@@ -32,6 +32,7 @@ body {
 .navbar-custom {
     margin: 10px;
     background-color: #0f0f0f;
+    border-color: #0f0f0f;
 }
 
 /* Отступы для текста в некоторых местах */
