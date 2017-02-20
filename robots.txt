@@ -1,0 +1,8 @@
+User-agent: *
+
+User-agent: Yandex
+Host: 2rbina2rista.xyz
+
+User-agent: Googlebot
+Allow: *.css
+Allow: *.js
