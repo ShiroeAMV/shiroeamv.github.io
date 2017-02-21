@@ -1,6 +1,11 @@
 /* Тёмный задний фон */
 body {
-    background-color: #0f0f0f;
+    background-color: black;
+}
+
+.image-logo {
+    width: 30%;
+    padding-top: 15px;
 }
 
 /* Центирование меню по центру */
@@ -31,8 +36,8 @@ body {
 /* Дополнение к стандартной теме меню */
 .navbar-custom {
     margin: 10px;
-    background-color: #0f0f0f;
-    border-color: #0f0f0f;
+    background-color: #000000;
+    border-color: #000000;
 }
 
 /* Отступы для текста в некоторых местах */
