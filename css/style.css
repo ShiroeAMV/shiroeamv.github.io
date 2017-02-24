@@ -3,8 +3,9 @@ body {
     background-color: black;
 }
 
+/* Логотип группы */
 .image-logo {
-    width: 30%;
+    width: 40%;
     padding-top: 15px;
 }
 
@@ -50,4 +51,12 @@ body {
     padding: 10px;
     bottom: 10px;
     position: relative
+}
+
+/* Изменение стилей ссылок */
+a {
+    text-decoration: none; /* Убирание подчёркиваний */
+}
+a:hover {
+    text-decoration: none;
 }
