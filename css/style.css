@@ -60,3 +60,16 @@ a {
 a:hover {
     text-decoration: none;
 }
+
+/* Медиазапросы на лого группы */
+@media screen and (max-width: 764px){
+    .block{
+        display: none;
+    }
+}
+
+@media screen and (min-width: 764px){
+    .blocks{
+        display: none;
+    }
+}
